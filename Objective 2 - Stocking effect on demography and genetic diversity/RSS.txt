@@ -1,0 +1,104 @@
+ID	Stage	PopOffspring	Sample_Year	Age	InferredDad	InferredMom	Parent_Stage	PopDad	PopMom	YearDad	YearMom	StatusDad	StatusMom
+23TARO042	Parr	Romaine	2023		21SA003		Adult	Romaine		2021		non	
+23TARO053	Parr	Romaine	2023			21SA007	Adult		Romaine		2021		non
+23TARO057	Parr	Romaine	2023		21SA003		Adult	Romaine		2021		non	
+23TARO068	Parr	Romaine	2023			21SA007	Adult		Romaine		2021		non
+23TARO082	Parr	Romaine	2023		21SA003		Adult	Romaine		2021		non	
+24R0035	Smolt	Romaine	2024	2	21SA003		Adult	Romaine		2021		non	
+24R0345	Smolt	Romaine	2024	2		21SA007	Adult		Romaine		2021		non
+23ALPU006	Fry	Puyjalon	2023			22SA005	Adult		Puyjalon		2022		non
+23ALPU009	Fry	Puyjalon	2023			22SA030	Adult		Puyjalon		2022		oui
+23ALPU024	Fry	Puyjalon	2023			22SA017	Adult		Puyjalon		2022		non
+23ALPU026	Fry	Puyjalon	2023			22SA006	Adult		Puyjalon		2022		non
+23ALPU028	Fry	Puyjalon	2023			22SA030	Adult		Puyjalon		2022		oui
+23ALPU056	Fry	Puyjalon	2023		22SA020		Adult	Puyjalon		2022		non	
+23ALPU058	Fry	Puyjalon	2023		22SA001		Adult	Puyjalon		2022		oui	
+23ALPU066	Fry	Puyjalon	2023		22SA001		Adult	Puyjalon		2022		oui	
+23ALRO011	Fry	Romaine	2023			22SA024	Adult		Romaine		2022		oui
+23ALRO028	Fry	Romaine	2023		22SA013		Adult	Romaine		2022		oui	
+23ALRO035	Fry	Romaine	2023			22SA024	Adult		Romaine		2022		oui
+23ALRO043	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO043	Fry	Romaine	2023			22SA024	Adult		Romaine		2022		oui
+23ALRO051	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO070	Fry	Romaine	2023			22SA015	Adult		Romaine		2022		non
+23ALRO076	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO083	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO086	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO091	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO093	Fry	Romaine	2023		22SA013		Adult	Romaine		2022		oui	
+23ALRO096	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO096	Fry	Romaine	2023			20R901	Smolt		Romaine		2020		non
+23ALRO098	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO100	Fry	Romaine	2023		22SA008		Adult	Romaine		2022		non	
+23ALRO100	Fry	Romaine	2023			22SA015	Adult		Romaine		2022		non
+23ALRO101	Fry	Romaine	2023			22SA007	Adult		Romaine		2022		non
+23ALRO103	Fry	Romaine	2023		22SA013		Adult	Romaine		2022		oui	
+23ALRO109	Fry	Romaine	2023		22SA013		Adult	Romaine		2022		oui	
+23ALRO110	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO113	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO114	Fry	Romaine	2023			22SA024	Adult		Romaine		2022		oui
+23ALRO120	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO128	Fry	Romaine	2023		22SA019		Adult	Romaine		2022		oui	
+23ALRO129	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO134	Fry	Romaine	2023			22SA007	Adult		Romaine		2022		non
+23ALRO136	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+23ALRO143	Fry	Romaine	2023			22SA035	Adult		Romaine		2022		non
+24TARO006	Parr	Romaine	2024			22SA035	Adult		Romaine		2022		non
+24TARO014	Parr	Romaine	2024			22SA024	Adult		Romaine		2022		oui
+24TARO029	Parr	Romaine	2024			22SA015	Adult		Romaine		2022		non
+24TARO030	Parr	Romaine	2024			22SA035	Adult		Romaine		2022		non
+24TARO032	Parr	Romaine	2024		22SA008		Adult	Romaine		2022		non	
+24TARO039	Parr	Romaine	2024			22SA024	Adult		Romaine		2022		oui
+24TARO040	Parr	Romaine	2024			22SA035	Adult		Romaine		2022		non
+24TARO044	Parr	Romaine	2024		22SA013		Adult	Romaine		2022		oui	
+24TARO052	Parr	Romaine	2024			22SA035	Adult		Romaine		2022		non
+24TARO053	Parr	Romaine	2024			22SA035	Adult		Romaine		2022		non
+24TARO055	Parr	Romaine	2024		22SA019		Adult	Romaine		2022		oui	
+24TAPU003	Parr	Puyjalon	2024		22SA001		Adult	Puyjalon		2022		oui	
+24TAPU006	Parr	Puyjalon	2024			22SA003	Adult		Puyjalon		2022		non
+24TAPU017	Parr	Puyjalon	2024			22SA006	Adult		Puyjalon		2022		non
+22R013	Smolt	Puyjalon	2022	2	18RO008		Smolt	Puyjalon		2018		non	
+22R031	Smolt	Romaine	2022	2	17R0207		Smolt	Romaine		2017		non	
+22R045	Smolt	Romaine	2022	2	17R0207		Smolt	Romaine		2017		non	
+22R186	Smolt	Romaine	2022	2	17R0207		Smolt	Romaine		2017		non	
+22R375	Smolt	Romaine	2022	2	17R0207		Smolt	Romaine		2017		non	
+22R383	Smolt	Romaine	2022	2	17R0207		Smolt	Romaine		2017		non	
+22R602	Smolt	Puyjalon	2022	3		17R0110	Smolt		Puyjalon		2017		oui
+22R671	Smolt	Puyjalon	2022	2		17R0110	Smolt		Puyjalon		2017		oui
+22R708	Smolt	Romaine	2022	2	18RO101		Smolt	Romaine		2018		non	
+23R008	Smolt	Puyjalon	2023	2		19R075	Smolt		Puyjalon	2020	2019		non
+23R037	Smolt	Romaine	2023	3	17R0122		Smolt	Romaine		2017		non	
+23R387	Smolt	Puyjalon	2023	2		19R075	Smolt		Puyjalon		2019		non
+24R0027	Smolt	Romaine	2024	3	17R0200		Smolt	Romaine		2017		non	
+24R0064	Smolt	Romaine	2024	2	17R0207		Smolt	Romaine		2017		non	
+24R0108	Smolt	Puyjalon	2024	2		19R008	Smolt		Puyjalon		2019		non
+24R0116	Smolt	Puyjalon	2024	3		17R0080	Smolt		Puyjalon		2017		non
+24R0119	Smolt	Puyjalon	2024	3		18RO041	Smolt		Puyjalon		2018		non
+24R0201	Smolt	Puyjalon	2024	3		18RO041	Smolt		Puyjalon		2018		non
+24R0202	Smolt	Puyjalon	2024	2	19R454		Smolt	Puyjalon		2019		non	
+24R0235	Smolt	Romaine	2024	3		18RO118	Smolt		Romaine		2018		non
+24R0253	Smolt	Puyjalon	2024	2		19R008	Smolt		Puyjalon		2019		non
+24R0301	Smolt	Romaine	2024	2	17R0207		Smolt	Romaine		2017		non	
+24R0357	Smolt	Puyjalon	2024	3		18RO029	Smolt		Puyjalon		2018		non
+24R0389	Smolt	Romaine	2024	3	17R0200		Smolt	Romaine		2017		non	
+24R0406	Smolt	Romaine	2024	5	17R0200		Smolt	Romaine		2017		non	
+23TAPU006	Parr	Puyjalon	2023		19R340		Smolt	Puyjalon		2019		non	
+23TARO084	Parr	Romaine	2023		19R633		Smolt	Romaine		2019		oui	
+23TARO096	Parr	Romaine	2023		20R917		Smolt	Romaine		2020		oui	
+24TARO012	Parr	Romaine	2024			21R130	Smolt		Romaine		2021		oui
+24TARO068	Parr	Romaine	2024		20R760		Smolt	Romaine		2020		non	
+24TARO072	Parr	Romaine	2024		20R760		Smolt	Romaine		2020		non	
+20ALRO007	Fry	Romaine	2020		17R0207		Smolt	Romaine		2017		non	
+20ALRO011	Fry	Romaine	2020			17R0008	Smolt		Romaine		2017		non
+20ALRO033	Fry	Romaine	2020			18RO118	Smolt		Romaine		2018		non
+21ALRO026	Fry	Romaine	2021		18RO100		Smolt	Romaine		2018		non	
+23ALPU011	Fry	Puyjalon	2023			20R030	Smolt		Puyjalon		2020		non
+23ALPU030	Fry	Puyjalon	2023		20R643		Smolt	Puyjalon		2020		non	
+23ALPU033	Fry	Puyjalon	2023			20R213	Smolt		Puyjalon		2020		non
+23ALPU042	Fry	Puyjalon	2023		20R019		Smolt	Puyjalon		2020		oui	
+23ALPU057	Fry	Puyjalon	2023			21R330	Smolt		Puyjalon		2021		non
+23ALPU064	Fry	Puyjalon	2023			21R330	Smolt		Puyjalon		2021		non
+23ALPU070	Fry	Puyjalon	2023			19R407	Smolt		Puyjalon		2019		non
+23ALPU073	Fry	Puyjalon	2023			20R030	Smolt		Puyjalon		2020		non
+23ALPU089	Fry	Puyjalon	2023			19R019	Smolt		Puyjalon		2019		non
+23ALRO057	Fry	Romaine	2023			21R458	Smolt		Romaine		2021		non
