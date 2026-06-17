@@ -1,0 +1,19 @@
+# spid-file generated: Thu Nov 25 18:27:44 EST 2021
+
+# CONVERT Parser questions
+PARSER_FORMAT=CONVERT
+
+# Select the type of the data:
+CONVERT_PARSER_DATA_TYPE_QUESTION=MICROSAT
+# Enter the size of the repeated motif (same for all loci: one number; different: comma separated list (e.g.: 2,2,3,2):
+CONVERT_PARSER_REPEAT_SIZE_QUESTION=2
+# How are Microsat alleles coded?
+CONVERT_PARSER_MICROSAT_CODING_QUESTION=REPEATS
+
+# GENEPOP Writer questions
+WRITER_FORMAT=GENEPOP
+
+# Specify which data type should be included in the GENEPOP file  (GENEPOP can only analyze one data type per file):
+GENEPOP_WRITER_DATA_TYPE_QUESTION=MICROSAT
+# Specify the locus/locus combination you want to write to the GENEPOP file:
+GENEPOP_WRITER_LOCUS_COMBINATION_QUESTION=

@@ -1,0 +1,333 @@
+Output from NeEstimator v.2
+Starting time: Tue Apr 21 14:37:25 2026
+Input File: "WildGENEPOP.txt"
+
+Number of Loci = 41
+
+LD mating model: Random
+
+Population     1 [17R0005]  (Number of Individuals = 94)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       89.3
+Independent Comparisons =       6920
+OverAll r^2 =                 0.018695
+Expected r^2 Sample =         0.011577
+Estimated Ne^ =                   44.7
+
+95% CIs for Ne^
+* Parametric                      40.8
+                                  49.0
+
+* JackKnife on Samples            34.8
+                                  58.7
+
+**************************************
+
+Population     2 [18RO004]  (Number of Individuals = 36)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       35.0
+Independent Comparisons =       6034
+OverAll r^2 =                 0.038411
+Expected r^2 Sample =         0.031100
+Estimated Ne^ =                   43.4
+
+95% CIs for Ne^
+* Parametric                      36.0
+                                  53.6
+
+* JackKnife on Samples            27.1
+                                  85.3
+
+**************************************
+
+Population     3 [19R004]  (Number of Individuals = 189)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      186.1
+Independent Comparisons =       6987
+OverAll r^2 =                 0.009765
+Expected r^2 Sample =         0.005463
+Estimated Ne^ =                   75.4
+
+95% CIs for Ne^
+* Parametric                      69.8
+                                  81.5
+
+* JackKnife on Samples            60.9
+                                  94.5
+
+**************************************
+
+Population     4 [20R031]  (Number of Individuals = 217)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      209.4
+Independent Comparisons =       7246
+OverAll r^2 =                 0.009531
+Expected r^2 Sample =         0.004842
+Estimated Ne^ =                   69.0
+
+95% CIs for Ne^
+* Parametric                      64.4
+                                  73.9
+
+* JackKnife on Samples            57.9
+                                  82.6
+
+**************************************
+
+Population     5 [21R048]  (Number of Individuals = 215)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      193.7
+Independent Comparisons =       6657
+OverAll r^2 =                 0.011255
+Expected r^2 Sample =         0.005172
+Estimated Ne^ =                   52.6
+
+95% CIs for Ne^
+* Parametric                      49.3
+                                  56.2
+
+* JackKnife on Samples            43.0
+                                  64.8
+
+**************************************
+
+Population     6 [22R013]  (Number of Individuals = 145)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      111.0
+Independent Comparisons =       6350
+OverAll r^2 =                 0.020655
+Expected r^2 Sample =         0.008073
+Estimated Ne^ =                   24.2
+
+95% CIs for Ne^
+* Parametric                      22.7
+                                  25.8
+
+* JackKnife on Samples            19.8
+                                  29.6
+
+**************************************
+
+Population     7 [23R008]  (Number of Individuals = 108)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      100.4
+Independent Comparisons =       6510
+OverAll r^2 =                 0.018495
+Expected r^2 Sample =         0.010103
+Estimated Ne^ =                   37.5
+
+95% CIs for Ne^
+* Parametric                      34.7
+                                  40.7
+
+* JackKnife on Samples            29.6
+                                  48.3
+
+**************************************
+
+Population     8 [24R0019]  (Number of Individuals = 112)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =      107.9
+Independent Comparisons =       6642
+OverAll r^2 =                 0.016326
+Expected r^2 Sample =         0.009430
+Estimated Ne^ =                   46.2
+
+95% CIs for Ne^
+* Parametric                      42.5
+                                  50.3
+
+* JackKnife on Samples            34.3
+                                  64.0
+
+**************************************
+
+Population     9 [19R862]  (Number of Individuals = 10)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =        9.6
+Independent Comparisons =       5574
+OverAll r^2 =                 0.146719
+Expected r^2 Sample =         0.142882
+Estimated Ne^ =                   78.5
+
+95% CIs for Ne^
+* Parametric                      30.8
+                              Infinite
+
+* JackKnife on Samples            19.4
+                              Infinite
+
+**************************************
+
+Population    10 [20R027]  (Number of Individuals = 27)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       26.5
+Independent Comparisons =       6825
+OverAll r^2 =                 0.053873
+Expected r^2 Sample =         0.042203
+Estimated Ne^ =                   24.6
+
+95% CIs for Ne^
+* Parametric                      20.9
+                                  29.3
+
+* JackKnife on Samples            13.4
+                                  61.8
+
+**************************************
+
+Population    11 [21R256]  (Number of Individuals = 23)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       21.8
+Independent Comparisons =       7849
+OverAll r^2 =                 0.065966
+Expected r^2 Sample =         0.052523
+Estimated Ne^ =                   21.1
+
+95% CIs for Ne^
+* Parametric                      17.9
+                                  25.1
+
+* JackKnife on Samples            13.0
+                                  40.8
+
+**************************************
+
+Population    12 [22R031]  (Number of Individuals = 43)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       36.8
+Independent Comparisons =       6696
+OverAll r^2 =                 0.036982
+Expected r^2 Sample =         0.028197
+Estimated Ne^ =                   35.7
+
+95% CIs for Ne^
+* Parametric                      30.9
+                                  41.9
+
+* JackKnife on Samples            23.4
+                                  61.8
+
+**************************************
+
+Population    13 [23R003]  (Number of Individuals = 44)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       39.0
+Independent Comparisons =       6896
+OverAll r^2 =                 0.037140
+Expected r^2 Sample =         0.025737
+Estimated Ne^ =                   27.0
+
+95% CIs for Ne^
+* Parametric                      24.0
+                                  30.5
+
+* JackKnife on Samples            17.0
+                                  47.7
+
+**************************************
+
+Population    14 [24R0035]  (Number of Individuals = 27)
+****************
+--------------------------------------
+Lowest Allele Frequency Used     0.050  
+--------------------------------------
+
+LINKAGE DISEQUILIBRIUM METHOD
+
+Harmonic Mean Sample Size =       26.4
+Independent Comparisons =       7925
+OverAll r^2 =                 0.050977
+Expected r^2 Sample =         0.042367
+Estimated Ne^ =                   34.0
+
+95% CIs for Ne^
+* Parametric                      28.3
+                                  41.9
+
+* JackKnife on Samples            19.1
+                                  88.2
+
+**************************************
+
+Ending time: Tue Apr 21 14:37:26 2026
+-------------------------------------
+
